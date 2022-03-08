@@ -1,5 +1,8 @@
 # CatIss
 
+<strong>Good news! CatIss is the winner of the NLBSE'22 too competition! &#57649; &#127881;</strong>
+
+
 This repository contains the source code, notebooks, model, and datasets used 
 for training <em>CatIss</em>, 
 an intelligent tool for automatic categorization of issue reports 
