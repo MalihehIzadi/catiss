@@ -89,5 +89,6 @@ Empirical Software Engineering, 27(2), 1-37.
 If you use CatIss in your work, please cite as following:
 
 ```
-Izadi, M., CatIss: An Intelligent Tool for Categorizing Issues reports using Transformers, 2022.
+Izadi, M., CatIss: An Intelligent Tool for Categorizing Issues reports using Transformers, In Proceedings of The 1st International Workshop on Natural
+Language-based Software Engineering (NLBSE’22), page (to appear), 2022.
 ``` 
