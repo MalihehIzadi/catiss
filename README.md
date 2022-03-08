@@ -1,6 +1,6 @@
 # CatIss
 
-<strong>Good news! CatIss is the winner of the NLBSE'22 too competition!</strong> &#xe131; &#127881;
+<strong>Good news! CatIss is the winner of the NLBSE'22 too competition!</strong> &#x1F3C6; &#127881;
 
 
 This repository contains the source code, notebooks, model, and datasets used 
